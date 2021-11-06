@@ -579,7 +579,7 @@ contract TokenRecover is Ownable {
 pragma solidity ^0.8.0;
 
 contract tokenName is TokenRecover, ERC20 {
-  constructor() ERC20("RGCtest", "RGCT") {
-    _mint(msg.sender, 100 * (10 ** uint256(decimals())));
+  constructor() ERC20("RGCfinal", "RGCF") {
+    _mint(msg.sender, 100000000 * (10 ** uint256(decimals())));
   }
 }
