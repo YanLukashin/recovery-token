@@ -3,7 +3,7 @@
 
 pragma solidity ^0.8.0;
 
-import "@YanLukashin/recovery-token/blob/main/Context.sol";
+import "https://github.com/YanLukashin/recovery-token/blob/main/Context.sol";
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
