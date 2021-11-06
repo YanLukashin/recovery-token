@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-import "@YanLukashin/recovery-token/blob/main/Ownable.sol";
+import "https://github.com/YanLukashin/recovery-token/blob/main/Ownable.sol";
 
 /**
  * @title TokenRecover
