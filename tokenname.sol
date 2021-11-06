@@ -86,8 +86,6 @@ interface IERC20 {
 
 pragma solidity ^0.8.0;
 
-import "https://github.com/YanLukashin/recovery-token/blob/main/IERC20.sol";
-
 /**
  * @dev Interface for the optional metadata functions from the ERC20 standard.
  *
