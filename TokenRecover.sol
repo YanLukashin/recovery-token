@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-import "@openzeppelin/contracts/access/Ownable.sol";
+import "https://github.com/YanLukashin/recovery-token/blob/main/Ownable.sol";
 
 /**
  * @title TokenRecover
