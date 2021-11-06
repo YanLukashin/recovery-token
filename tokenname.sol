@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "https://github.com/YanLukashin/recovery-token/blob/main/ERC20.sol";
 import "https://github.com/vittominacori/eth-token-recover/blob/master/contracts/TokenRecover.sol";
 
 contract tokenName is TokenRecover, ERC20 {
