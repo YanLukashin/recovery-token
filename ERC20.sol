@@ -3,9 +3,9 @@
 
 pragma solidity ^0.8.0;
 
-import "https://github.com/YanLukashin/recovery-token/blob/main/IERC20.sol";
-import "https://github.com/YanLukashin/recovery-token/blob/main/IERC20Metadata.sol";
-import "https://github.com/YanLukashin/recovery-token/blob/main/Context.sol";
+import "@YanLukashin/recovery-token/blob/main/IERC20.sol";
+import "@YanLukashin/recovery-token/blob/main/IERC20Metadata.sol";
+import "@YanLukashin/recovery-token/blob/main/Context.sol";
 
 /**
  * @dev Implementation of the {IERC20} interface.
